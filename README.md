@@ -1,5 +1,4 @@
-# Stock-Price-Prediction-and-Analysis
-Stock Price Prediction and Analysis
+# Stock Price Prediction and Analysis
 
 A Machine Learning model for predicting future stock price movements.
 
